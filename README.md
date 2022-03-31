@@ -7,7 +7,7 @@
 #### První semestr - Zima 2021/22
 - [BI-DML][BI-DML] - Anki kartičky
 - [BI-LA1][BI-LA1] - Anki kartičky
-- [BI-PA1][BI-PA1] - externí repozitář# FIT_CVUT
+- [BI-PA1][BI-PA1] - externí repozitář
 
 
 
