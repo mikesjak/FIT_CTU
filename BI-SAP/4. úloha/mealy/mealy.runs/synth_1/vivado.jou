@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Wed Mar 16 13:23:33 2022
+# Process ID: 2240
+# Current directory: X:/BI-SAP/mealy/mealy.runs/synth_1
+# Command line: vivado.exe -log mealy_vhdl.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mealy_vhdl.tcl
+# Log file: X:/BI-SAP/mealy/mealy.runs/synth_1/mealy_vhdl.vds
+# Journal file: X:/BI-SAP/mealy/mealy.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mealy_vhdl.tcl -notrace

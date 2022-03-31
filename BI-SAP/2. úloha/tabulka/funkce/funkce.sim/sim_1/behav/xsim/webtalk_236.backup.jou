@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Wed Feb 23 13:19:45 2022
+# Process ID: 236
+# Current directory: X:/BI-SAP/funkce/funkce/funkce.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source X:/BI-SAP/funkce/funkce/funkce.sim/sim_1/behav/xsim/xsim.dir/truth_table_4_test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: X:/BI-SAP/funkce/funkce/funkce.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: X:/BI-SAP/funkce/funkce/funkce.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source X:/BI-SAP/funkce/funkce/funkce.sim/sim_1/behav/xsim/xsim.dir/truth_table_4_test_behav/webtalk/xsim_webtalk.tcl -notrace

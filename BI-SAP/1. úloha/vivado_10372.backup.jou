@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Feb 23 10:50:14 2022
+# Process ID: 10372
+# Current directory: E:/adder_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2448 E:\adder_4\scitacka.xpr
+# Log file: E:/adder_4/vivado.log
+# Journal file: E:/adder_4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/adder_4/scitacka.xpr
+update_compile_order -fileset sources_1

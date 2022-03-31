@@ -1,0 +1,1 @@
+-wto "495b9d7d1da2475d94c7006198fe2279" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "algebra_4_test_behav" "xil_defaultlib.algebra_4_test" -log "elaborate.log" 

@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../i5.srcs/sources_1/imports/BI-SAP/l5_next_state_logic.vhd" \
+"../../../../i5.srcs/sources_1/imports/BI-SAP/l5_output_logic.vhd" \
+"../../../../i5.srcs/sim_1/imports/BI-SAP/l5_posloupnost_test_v2.vhd" \
+
+# Do not sort compile order
+nosort
