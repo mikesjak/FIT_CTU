@@ -9,8 +9,10 @@
 5. [cvičení][cv5] - Sekvenční obvody (Automaty)
 6. [cvičení][cv6] - Sločitější sekvenční obvody
 #### AVR
-7. [cvičení][cv7] - Vypsání jména
-8. [cvičení][cv8] - Aritmetický výraz, výpis 8b hexa čísla
+7.  [cvičení][cv7]  - Vypsání jména
+8.  [cvičení][cv8]  - Aritmetický výraz, výpis 8b hexa čísla
+9.  [cvičení][cv9]  - Posuvný text
+10. [cvičení][cv10] - Forbes
 
 [cv1]: https://github.com/mikesjak/FIT_CVUT/tree/BI-SAP/BI-SAP/1.%20%C3%BAloha
 [cv2]: https://github.com/mikesjak/FIT_CVUT/tree/BI-SAP/BI-SAP/2.%20%C3%BAloha
@@ -21,3 +23,4 @@
 [cv7]: https://github.com/mikesjak/FIT_CVUT/tree/BI-SAP/BI-SAP/7.%20%C3%BAloha 
 [cv8]: https://github.com/mikesjak/FIT_CVUT/tree/BI-SAP/BI-SAP/8.%20%C3%BAloha
 [cv9]: https://github.com/mikesjak/FIT_CVUT/tree/BI-SAP/BI-SAP/9.%20%C3%BAloha
+[cv10]: https://github.com/mikesjak/FIT_CVUT/tree/BI-SAP/BI-SAP/10.%20%C3%BAloha
