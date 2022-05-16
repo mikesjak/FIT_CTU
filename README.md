@@ -13,6 +13,7 @@
 - [BI-PA2][BI-PA2] - externí repozitář
 - [BI-SAP][BI-SAP]
 - [BI-VAK][BI-VAK]
+- [BI-KSA][BI-KSA]
 
 
 
@@ -25,3 +26,4 @@
 [BI-PA2]: https://github.com/mikesjak/FIT_CTU-PA2
 [BI-SAP]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-SAP
 [BI-VAK]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-VAK
+[BI-KSA]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-KSA
