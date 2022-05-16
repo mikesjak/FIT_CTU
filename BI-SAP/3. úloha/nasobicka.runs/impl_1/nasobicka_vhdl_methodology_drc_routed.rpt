@@ -1,0 +1,34 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2.1 (win64) Build 2288692 Thu Jul 26 18:24:02 MDT 2018
+| Date         : Wed Mar  9 13:01:21 2022
+| Host         : PC-1042-114 running 64-bit major release  (build 9200)
+| Command      : report_methodology -file nasobicka_vhdl_methodology_drc_routed.rpt -pb nasobicka_vhdl_methodology_drc_routed.pb -rpx nasobicka_vhdl_methodology_drc_routed.rpx
+| Design       : nasobicka_vhdl
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+| Design State : Routed
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report Methodology
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: checkpoint_nasobicka_vhdl
+      Design limits: <entire design considered>
+             Max violations: <unlimited>
+             Violations found: 0
++------+----------+-------------+------------+
+| Rule | Severity | Description | Violations |
++------+----------+-------------+------------+
++------+----------+-------------+------------+
+
+2. REPORT DETAILS
+-----------------
+

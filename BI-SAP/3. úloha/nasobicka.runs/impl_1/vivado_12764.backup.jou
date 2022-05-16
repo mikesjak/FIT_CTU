@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Wed Mar  9 13:00:13 2022
+# Process ID: 12764
+# Current directory: X:/BI-SAP/nasobicka/nasobicka.runs/impl_1
+# Command line: vivado.exe -log nasobicka_vhdl.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source nasobicka_vhdl.tcl -notrace
+# Log file: X:/BI-SAP/nasobicka/nasobicka.runs/impl_1/nasobicka_vhdl.vdi
+# Journal file: X:/BI-SAP/nasobicka/nasobicka.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source nasobicka_vhdl.tcl -notrace

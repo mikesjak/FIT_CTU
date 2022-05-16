@@ -9,7 +9,10 @@
 - [BI-LA1][BI-LA1] - Anki kartičky
 - [BI-PA1][BI-PA1] - externí repozitář
 
-
+#### Druhý semestr - Léto 2021/22
+- [BI-PA2][BI-PA2] - externí repozitář
+- [BI-SAP][BI-SAP]
+- [BI-VAK][BI-VAK]
 
 
 
@@ -18,3 +21,7 @@
 [BI-PA1]: https://github.com/mikesjak/FIT_CTU-PA1
 [BI-DML]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-DML
 [BI-LA1]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-LA1
+
+[BI-PA2]: https://github.com/mikesjak/FIT_CTU-PA2
+[BI-SAP]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-SAP
+[BI-VAK]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-VAK

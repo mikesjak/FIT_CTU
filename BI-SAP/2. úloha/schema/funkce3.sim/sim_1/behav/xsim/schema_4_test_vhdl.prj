@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../funkce3.srcs/sim_1/imports/funkce3/l2_schema_4_test.vhd" \
+
+# Do not sort compile order
+nosort

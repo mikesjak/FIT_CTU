@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jul 26 2018
+19:36:16
+X:/BI-SAP/i5/i5.srcs/sim_1/imports/BI-SAP/l5_posloupnost_test_v2.vhd,1647434342,vhdl,,,,l5_posloupnost_test_v2,,,,,,,,
+X:/BI-SAP/i5/i5.srcs/sources_1/imports/BI-SAP/l5_next_state_logic.vhd,1647434486,vhdl,X:/BI-SAP/i5/i5.srcs/sim_1/imports/BI-SAP/l5_posloupnost_test_v2.vhd,,,next_state_logic,,,,,,,,
+X:/BI-SAP/i5/i5.srcs/sources_1/imports/BI-SAP/l5_output_logic.vhd,1647433953,vhdl,X:/BI-SAP/i5/i5.srcs/sim_1/imports/BI-SAP/l5_posloupnost_test_v2.vhd,,,output_logic,,,,,,,,

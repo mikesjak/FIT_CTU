@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega169</DEVICE>
+ <WORKING_DIR>X:\BI-SAP\AVR\avr_text</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>X:\BI-SAP\AVR\avr_text\text.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m169def.inc</FILE>
+  <FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE>
+  <FILE>X:\BI-SAP\AVR\avr_text\znaky.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>X:\BI-SAP\AVR\avr_text\text.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>X:\BI-SAP\AVR\avr_text\text.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>X:\BI-SAP\AVR\avr_text\text.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init_disp><FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE><LINE>3</LINE></init_disp>
+  <show_char><FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE><LINE>18</LINE></show_char>
+  <mezera><FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE><LINE>42</LINE></mezera>
+  <neznak><FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE><LINE>39</LINE></neznak>
+  <nemezera><FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE><LINE>44</LINE></nemezera>
+  <znaky><FILE>X:\BI-SAP\AVR\avr_text\znaky.inc</FILE><LINE>8</LINE></znaky>
+  <zobzc><FILE>X:\BI-SAP\AVR\avr_text\print.inc</FILE><LINE>64</LINE></zobzc>
+  <start><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>15</LINE></start>
+  <retezec><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>13</LINE></retezec>
+  <shifting><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>61</LINE></shifting>
+  <waitingos><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>41</LINE></waitingos>
+  <waitingos3><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>43</LINE></waitingos3>
+  <waitingos2><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>45</LINE></waitingos2>
+  <waitingos1><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>47</LINE></waitingos1>
+  <ladder><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>69</LINE></ladder>
+  <print><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>73</LINE></print>
+  <finish><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>131</LINE></finish>
+  <ladder2><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>71</LINE></ladder2>
+  <pos1><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>80</LINE></pos1>
+  <pos2><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>87</LINE></pos2>
+  <pos3><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>94</LINE></pos3>
+  <pos4><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>101</LINE></pos4>
+  <pos5><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>110</LINE></pos5>
+  <pos6><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>119</LINE></pos6>
+  <lastPrint><FILE>X:\BI-SAP\AVR\avr_text\text.asm</FILE><LINE>123</LINE></lastPrint>
+ </LABELS>
+</ASSEMBLER_INFO>
