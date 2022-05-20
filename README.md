@@ -1,6 +1,6 @@
 # FIT ČVUT
 - materiály z mého studia na FIT ČVUT
-- Všechny mé poznámky najdete na mém [Notion][Notion], kde najdete i mojí konečnou známku, přibližný počet strávených hodin a mé skromné ohodnocení
+- Všechny mé poznámky najdete na mém [Notion][Notion], kde najdete i mojí konečnou známku a přibližný počet strávených hodin
 - Upozorňuju, že ne všechny mé poznámky musí být správně a že většinu poznámek jsem začal psát až po prvním semestru
 
 ## Obsah
@@ -14,6 +14,7 @@
 - [BI-SAP][BI-SAP]
 - [BI-VAK][BI-VAK]
 - [BI-KSA][BI-KSA]
+- [BI-PSI][BI-PSI] - semestrální úloha
 
 
 
@@ -27,3 +28,4 @@
 [BI-SAP]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-SAP
 [BI-VAK]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-VAK
 [BI-KSA]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-KSA
+[BI-PSI]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-PSI
