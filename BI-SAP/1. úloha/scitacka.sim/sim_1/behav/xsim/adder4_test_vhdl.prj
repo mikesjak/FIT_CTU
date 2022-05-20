@@ -1,8 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../scitacka.srcs/sources_1/imports/tmp/adder_4.vhd" \
-"../../../../scitacka.srcs/sources_1/imports/tmp/pulscitacky.vhd" \
-"../../../../scitacka.srcs/sim_1/imports/Downloads/l1_adder4_test.vhd" \
-
-# Do not sort compile order
-nosort

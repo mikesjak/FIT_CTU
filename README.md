@@ -10,11 +10,11 @@
 - [BI-PA1][BI-PA1] - externí repozitář
 
 #### Druhý semestr - Léto 2021/22
+- [BI-KSA][BI-KSA]
 - [BI-PA2][BI-PA2] - externí repozitář
+- [BI-PSI][BI-PSI] - semestrální úloha
 - [BI-SAP][BI-SAP]
 - [BI-VAK][BI-VAK]
-- [BI-KSA][BI-KSA]
-- [BI-PSI][BI-PSI] - semestrální úloha
 
 
 
