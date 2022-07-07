@@ -10,10 +10,11 @@
 - [BI-PA1][BI-PA1] - Externí repozitář
 
 #### Druhý semestr - Léto 2021/22
+- [BI-DBS][BI-DBS] - Semestrální práce
 - [BI-KSA][BI-KSA]
 - [BI-PA2][BI-PA2] - Progtestové úlohy
 - [BI-PA2][BI-PA2-ASCII] - Semestrální práce
-- [BI-PSI][BI-PSI] - Semestrální úloha
+- [BI-PSI][BI-PSI] - Semestrální práce
 - [BI-SAP][BI-SAP]
 - [BI-VAK][BI-VAK]
 
@@ -25,6 +26,7 @@
 [BI-DML]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-DML
 [BI-LA1]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-LA1
 
+[BI-DBS]: https://github.com/mikesjak/RealEstateAgency_DB
 [BI-PA2-ASCII]: https://github.com/mikesjak/ASCIIart-editor 
 [BI-PA2]: https://github.com/mikesjak/FIT-CTU-PA2
 [BI-SAP]: https://github.com/mikesjak/FIT_CVUT/tree/main/BI-SAP
